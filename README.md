@@ -1,2 +1,2 @@
 # Sudoku-Solvr
-Solves any sudoku puzzle in python 
+sudoku solver using the Backtracking algorithm in Python
